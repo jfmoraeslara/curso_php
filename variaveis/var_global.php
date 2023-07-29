@@ -14,12 +14,12 @@
     echo "$teste global 2 <br>";
 
     // alterando o global dentro da função
-    function testandoGlobla() {
+    function testandoGlobal() {
         global $teste;
         $teste = 3;
         echo "$teste função global <br>";
     }
 
-    testandoGlobla();
+    testandoGlobal();
     echo "$teste global 3 <br>";
 ?>

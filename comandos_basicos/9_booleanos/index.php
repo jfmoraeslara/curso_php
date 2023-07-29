@@ -21,7 +21,7 @@
     }
     
     else {
-        echo "Condiação falsa!";
+        echo "Condição falsa!";
     }
     
 ?>
