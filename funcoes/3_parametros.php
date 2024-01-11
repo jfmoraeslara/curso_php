@@ -2,7 +2,7 @@
 
     function velocidadeMaxima($vel) {
 
-        // tratamento da funcção com if
+        // tratamento da função com if
         if(is_int($vel)) {
            echo "Velocidade máxima é $vel km/h <br>"; 
         } else {
