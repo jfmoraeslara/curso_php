@@ -22,5 +22,6 @@
 
     $pastorAlemao->latir();
     $pastorAlemao->andar(20);
+    
 
 ?>
